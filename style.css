@@ -1,0 +1,401 @@
+/* Frame 1 */
+
+position: relative;
+width: 424px;
+height: 558px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 424px;
+height: 554px;
+left: 0px;
+top: 0px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 424px;
+height: 68px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 424px;
+height: 106px;
+left: 0px;
+top: 448px;
+
+background: #FFFFFF;
+
+
+/* image 1 */
+
+position: absolute;
+width: 72px;
+height: 71px;
+left: -8px;
+top: -1px;
+
+background: url(image);
+
+
+/* Кто такой дед инсайд */
+
+position: absolute;
+width: 352px;
+height: 44px;
+left: 38px;
+top: 105px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+
+color: #000000;
+
+
+
+/* «Дед инсайд» (от англ. dead inside, «мертвый внутри») — это мем, популярный в геймерской среде и в итоге породивший субкультуру тех, кто ощущает себя внутренне опустошенными, «мертвыми изнутри». К 2022 «дед инсайд» изменил значение и сейчас популярен больше как мем, чем как самоназвание «грустных» людей.  Подробнее на РБК: https://trends.rbc.ru/trends/social/629463879a794793b7ab59af?from=copy___ */
+
+position: absolute;
+width: 303px;
+height: 142px;
+left: 60px;
+top: 184px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* дом: дота 2 */
+
+position: absolute;
+width: 68px;
+height: 15px;
+left: 58px;
+top: 472px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* телефон: 1488 */
+
+position: absolute;
+width: 85px;
+height: 15px;
+left: 70px;
+top: 516px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 98px;
+height: 98px;
+left: 309px;
+top: 346px;
+
+background: url(image);
+
+
+/* Frame 2 */
+
+position: relative;
+width: 424px;
+height: 558px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 424px;
+height: 554px;
+left: 0px;
+top: 0px;
+
+background: #D9D9D9;
+
+
+/* Изначально считалось, что «дед инсайд» должен демонстрировать пессимизм, равнодушие и иногда агрессивное презрение к окружающим. Но постепенно название стало все чаще употребляться иронично: «дед инсайдами» называют тех, кто оторван от жизни, не обращает внимания на окружающих и ведет себя странно в повседневных ситуациях. В TikTok и «ВКонтакте» популярны мемы, которые иронизируют над демонстративным безразличием и апатией «дед инсайдов». Если подросток говорит о себе «я дед инсайд», это вряд ли значит, что он намерен оскорблять окружающих или всерьез воспринимает себя героем аниме. Сегодня «дед инсайд» — это ироничный посыл, повод для шуток и способ найти друзей с похожими увлечениями.  Подробнее на РБК: https://trends.rbc.ru/trends/social/629463879a794793b7ab59af?from=copy_ */
+
+position: absolute;
+width: 354px;
+height: 285px;
+left: 57px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 424px;
+height: 68px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 424px;
+height: 106px;
+left: 0px;
+top: 448px;
+
+background: #FFFFFF;
+
+
+/* image 2 */
+
+position: absolute;
+width: 72px;
+height: 71px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+
+
+/* Что раньше означало дед инсайд? */
+
+position: absolute;
+width: 285px;
+height: 60px;
+left: 52px;
+top: 98px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* дом : дота 2 */
+
+position: absolute;
+width: 72px;
+height: 15px;
+left: 68px;
+top: 478px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* телефон:1488 */
+
+position: absolute;
+width: 81px;
+height: 15px;
+left: 72px;
+top: 506px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+position: relative;
+width: 424px;
+height: 558px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 424px;
+height: 554px;
+left: 0px;
+top: 0px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 424px;
+height: 68px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 424px;
+height: 106px;
+left: 0px;
+top: 448px;
+
+background: #FFFFFF;
+
+
+/* image 2 */
+
+position: absolute;
+width: 72px;
+height: 71px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+
+
+/* Чем занимаются дед инсайды? */
+
+position: absolute;
+width: 404px;
+height: 27px;
+left: 25px;
+top: 108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Типичный «дед инсайд» — это человек, увлеченный аниме или игрой в Dota 2, с челкой, падающей на глаза и в одежде черно-белых оттенков. В его профиле в соцсети чаще всего скриншоты из японского аниме «Токийский гуль», а в статусе или нике может быть фраза «дед инсайд». Лицо на фото закрыто маской или вообще скрыто. «Дед инсайду» не обязательно играть в Dota и смотреть аниме:  */
+
+position: absolute;
+width: 352px;
+height: 60px;
+left: 72px;
+top: 186px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* дом: доты 2 */
+
+position: absolute;
+width: 71px;
+height: 15px;
+left: 63px;
+top: 481px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* телефон: 1488 */
+
+position: absolute;
+width: 85px;
+height: 15px;
+left: 73px;
+top: 533px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* image 4 */
+
+position: absolute;
+width: 117px;
+height: 84px;
+left: 292px;
+top: 364px;
+
+background: url(image);
